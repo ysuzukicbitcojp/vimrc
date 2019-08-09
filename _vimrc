@@ -16,10 +16,6 @@ set nocompatible
 filetype off
 colo murphy
 
-set nocompatible
-filetype off
-colo murphy
-
 " dein settings BEGIN -->
 if &compatible
   set nocompatible               " Be iMproved
